@@ -1,3 +1,5 @@
 Primera lección git
 
 Le hice un cambio
+
+Le borré lo de la hora y ahora le hago otro cambio porque clase 12
